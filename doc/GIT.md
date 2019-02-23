@@ -1,10 +1,17 @@
 # git
 
-## Clone
+## Helpful commands
 
 ```bash
 git clone <rep_url>
+
+
+git status #zeigt Uebersicht ueber getrackte/ungetrackte Files
+
+git add #fuegt untracked Doc. zu staging area hinzu
 ```
 ```bash
-git status #zeigt Uebersicht ueber getrackte/ungetrackte Files
+git commit #fuegt zu lokaler DB hinzu
+
+git log #Historie
 ```
