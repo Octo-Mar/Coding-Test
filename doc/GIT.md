@@ -14,4 +14,6 @@ git add #fuegt untracked Doc. zu staging area hinzu
 git commit #fuegt zu lokaler DB hinzu
 
 git log #Historie
+git push #Push auf Branch
+git checkout -b <branchname> #erstellt neuen Branch
 ```
