@@ -6,7 +6,8 @@ Travis build
 
 ## Make
 
-Most development commands are available in `Makefile`.
+Development environment is given with docker. 
+To start see [Makefile].
 
 ```bash
 make help
