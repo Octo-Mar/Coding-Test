@@ -2,11 +2,11 @@
 
 ## CI
 
-Travis build
+Travis build [![Build Status](https://travis-ci.com/Octo-Mar/Coding-Test.svg?branch=feat%2FmyFirstNodeProject)](https://travis-ci.com/Octo-Mar/Coding-Test)
 
 ## Make
 
-Development environment is given with docker. 
+Development environment is given with docker.
 To start see [Makefile].
 
 ```bash
