@@ -1,0 +1,81 @@
+[2019-03-12 16:59:58.900] [exthost] [info] extension host started
+[2019-03-12 16:59:59.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-12 16:59:59.372] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-12 16:59:59.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-12 16:59:59.391] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-03-12 16:59:59.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-12 16:59:59.530] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-03-12 17:00:00.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-12 17:00:00.104] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-12 17:00:00.126] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"activationEvent":"*"}
+[2019-03-12 17:00:00.126] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-03-12 17:00:00.234] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-03-12 17:00:00.244] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/client/out/extension
+[2019-03-12 17:00:00.470] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-03-12 17:00:00.472] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/eamodio.gitlens-9.5.1/dist/extension
+[2019-03-12 17:00:00.942] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-03-12 17:00:00.943] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-03-12 17:00:01.046] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-03-12 17:00:01.046] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/hookyqr.beautify-1.4.9/extension
+[2019-03-12 17:00:01.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-03-12 17:00:01.240] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-03-12 17:00:01.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-03-12 17:00:01.532] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-03-12 17:00:01.830] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-03-12 17:00:01.830] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.0.0/out/index.js
+[2019-03-12 17:00:01.833] [exthost] [info] ExtensionService#_doActivateExtension steoates.autoimport {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-03-12 17:00:01.833] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/steoates.autoimport-1.5.3/out/src/extension
+[2019-03-12 17:00:01.885] [exthost] [info] ExtensionService#_doActivateExtension xaver.clang-format {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-03-12 17:00:01.885] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/xaver.clang-format-1.9.0/out/src/extension
+[2019-03-12 17:00:01.894] [exthost] [info] eager extensions activated
+[2019-03-12 17:00:15.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-12 17:00:15.702] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-03-12 17:00:15.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-12 17:00:15.747] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-03-12 17:02:16.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-03-12 17:02:16.201] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-03-12 17:02:16.528] [exthost] [info] ExtensionService#_doActivateExtension mkaufman.HTMLHint {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-03-12 17:02:16.528] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/mkaufman.htmlhint-0.5.0/out/extension
+[2019-03-12 17:02:16.698] [exthost] [info] ExtensionService#_doActivateExtension tht13.html-preview-vscode {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-03-12 17:02:16.698] [exthost] [info] ExtensionService#loadCommonJSModule /home/miri/.vscode/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js
+[2019-03-13 10:54:32.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-03-13 10:54:32.307] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-03-13 11:03:03.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-03-13 11:03:03.425] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-03-13 11:44:34.231] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-03-13 11:44:34.231] [exthost] [error] Error: TypeScript Server Error (3.3.1)
+Error processing request. Debug Failure.
+Error: Debug Failure.
+    at Object.assertDefined (tsserver.js:1494:24)
+    at containsPrecedingToken (tsserver.js:104374:43)
+    at isSyntacticOwner (tsserver.js:104351:28)
+    at getCandidateOrTypeInfo (tsserver.js:104315:52)
+    at Object.getSignatureHelpItems (tsserver.js:104292:33)
+    at Proxy.getSignatureHelpItems (tsserver.js:118630:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:126686:62)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:125640:61)
+    at tsserver.js:127107:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:127098:28)
+    at IOSession.Session.executeCommand (tsserver.js:127107:33)
+    at IOSession.Session.onMessage (tsserver.js:127129:35)
+    at Interface.<anonymous> (tsserver.js:128390:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at v.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:178103)
+	at v.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:176857)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:176213)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:113)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:182286)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:181934)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)

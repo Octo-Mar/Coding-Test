@@ -1,0 +1,164 @@
+Initializing document watcher...
+Detected change in configuration: {}
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.css: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+my-first-app/angular.json: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.css: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+No more open editors.
+No more open editors.
+No more open editors.
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: Using EditorConfig core...
+src/app/servers/servers.component.html: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: Using EditorConfig core...
+src/app/server/server.component.html: editor.action.trimTrailingWhitespace
+src/app/server/server.component.html: insertFinalNewline(LF)
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: Using EditorConfig core...
+src/app/server/server.component.html: editor.action.trimTrailingWhitespace
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.ts: Using EditorConfig core...
+src/app/server/server.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: Using EditorConfig core...
+src/app/server/server.component.html: editor.action.trimTrailingWhitespace
+src/app/server/server.component.html: insertFinalNewline(LF)
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.ts: Using EditorConfig core...
+src/app/servers/servers.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.css: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.css: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.css: Using EditorConfig core...
+src/app/app.component.css: editor.action.trimTrailingWhitespace
+src/app/app.component.css: insertFinalNewline(LF)
+No more open editors.
+No more open editors.
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.css: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/servers/servers.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/servers/servers.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/server/server.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/main.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.ts: Using EditorConfig core...
+src/app/app.component.ts: editor.action.trimTrailingWhitespace
+my-first-app/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.spec.ts: {"insertSpaces":true,"tabSize":2}
+my-first-app/src/app/app.component.ts: {"insertSpaces":true,"tabSize":2}

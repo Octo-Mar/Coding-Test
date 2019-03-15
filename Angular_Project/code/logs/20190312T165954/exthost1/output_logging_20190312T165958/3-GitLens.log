@@ -1,0 +1,415 @@
+[2019-03-12 16:05:04:571] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-12 16:09:44:043] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-12 16:09:48:121] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-12 16:10:05:563] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-12 16:10:21:237] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-12 16:10:22:624] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 09:49:09:405] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 09:49:30:432] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 09:49:40:430] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 09:52:32:103] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 09:54:32:652] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 09:59:16:999] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:00:05:909] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:00:20:369] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:03:03:950] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, angular.json,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:04:54:673] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:05:50:550] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:06:17:744] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:06:22:186] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:06:40:346] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:28:46:166] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:28:50:260] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:30:00:333] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:31:40:528] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:32:43:043] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:32:59:079] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:33:06:966] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:34:45:066] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:51:32:827] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:18:438] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:27:307] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:36:753] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:39:995] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:48:428] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:48:688] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:48:965] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:49:256] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:53:234] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:52:58:359] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:53:48:847] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:54:22:519] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:55:49:987] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:56:02:101] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:56:16:616] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:56:31:800] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:33:306] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:36:370] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.spec.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:38:068] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:41:054] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.spec.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:42:022] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:55:679] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.spec.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 10:59:59:370] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:00:49:871] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:00:55:717] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:01:06:869] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:01:07:917] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:01:18:429] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:01:29:949] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:01:45:278] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:02:04:908] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:02:08:602] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:02:11:442] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:39:222] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:39:483] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:39:742] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:42:987] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:53:963] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.spec.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:54:625] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.css,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:10:55:314] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:11:08:363] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.spec.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:11:44:285] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:12:00:117] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:12:29:485] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:14:01:422] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/main.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:14:13:011] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.module.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:15:26:400] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:15:35:422] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:15:50:808] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:16:06:440] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --contents, -, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:16:11:958] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:16:58:728] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:17:08:789] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.html,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
+[2019-03-13 11:17:15:783] git — -c, core.quotepath=false, -c, color.ui=false, blame, --root, --incremental, --, src/app/app.component.spec.ts,   cwd='/home/miri/Desktop/newProject/angularProject/my-first-app'
+
+  
+Error: fatal: no such ref: HEAD
+
