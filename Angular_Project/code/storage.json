@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "556b3238580280c6d0073b9cabb185c3ceb82ea2599a384f2b05d46597112e10",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/miri/Desktop/newProject/angularProject/my-first-app"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/miri/Desktop/newProject/angularProject/my-first-app",
+                "external": "file:///home/miri/Desktop/newProject/angularProject/my-first-app",
+                "path": "/home/miri/Desktop/newProject/angularProject/my-first-app",
+                "scheme": "file"
+            },
+            "backupPath": "/home/miri/Desktop/newProject/angularProject/code/Backups/8031d379454f7200edf2ac28b3826694",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 25,
+                "width": 798,
+                "height": 726
+            }
+        }
+    }
+}
