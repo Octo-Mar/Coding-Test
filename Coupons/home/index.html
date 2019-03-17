@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommen beim Coupon-Watcher</title>
+    <link rel="stylesheet" href="./formate.css">
+  </head>
+  <body>
+      <nav>
+          <ul>
+            <li><a tabindex="0" aria-current="page">Startseite</a></li>
+            <li><a href="html/aktuelle_gutscheine.html">Aktuell gültige Gutscheine</a></li>
+            <li><a href="html/zukuenftige_gutscheine.html">Zukünftige Gutscheine</a></li>
+            <li><a href="html/vergangene_gutscheine.html">Vergangene Gutscheine</a></li>
+          </ul>
+        </nav>
+
+    <h1>Willkommen beim Coupon-Watcher</h1>
+    <h2>Verpassen Sie nie wieder Deadlines Ihrer Gutscheine!</h2>
+    <div id="Gutscheine">
+        <ul>
+          <li>Geben Sie Ihre Gutscheine verschiedenster Art ein</li>
+            <ul>
+              <li>in Papierform</li>
+              <li>online</li>
+              <li>digital</li>
+            </ul>
+          </li>
+          <li>Halten Sie den Überblick über den Gültigkeits-Zeitraum</li>
+          <li>Lassen Sie sich an Deadlines erinnern</li>
+        </ul>
+        <p>... und sparen Sie sich glücklich! :)</p>
+    </div>
+
+    <div id="neuer_gutschein">  
+      <p>Neuen Gutschein eingeben:</p>
+      <label for = "name">Name/Institut:</label><input id = "name" size = "30" maxlength="30" placeholder="hier gilt der Gutschein">
+      <br>
+      <label for = "wert">Wert:</label>        <input id="wert" size ="5" maxlength="5" placeholder="Wert in €">
+      <br>
+      <label for = "prozent">Prozent:</label>  <input id="prozent" size="2" maxlength="3" placeholder="x %">
+      <br>
+      <label for = "von">Gültig von:</label>   <input id="von" size ="5" maxlength="10" placeholder="01.01.2001">
+      <br>
+      <label for = "bis">Gültig bis:</label>   <input id="bis" size ="5" maxlength="10" placeholder="31.12.2001">
+      <br>
+      <button type="submit" id="eintragen">eintragen</button>
+      
+    </div>
+    </body>
+</html>

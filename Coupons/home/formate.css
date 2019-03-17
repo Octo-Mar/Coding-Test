@@ -1,0 +1,29 @@
+p { font-size: 1.5em; text-align: justify; font-family: sans-serif; }
+h1 { font-size: 2.5em; font-family: cursive; background-color: purple; text-align: center; }
+h2 { font-size: 2.2em; font-family: cursive; background-color: yellow; text-align: center; }
+li { font-size: 1.7em; }
+li li { font-size: 1em; }
+tr { font-size: 1.7em; }
+
+#Gutscheine {
+    padding-right: 1em;
+    float: center;
+    margin-right: 1em;
+    color: black;
+  }
+#Gutscheine p {
+    font-family: serif;
+    text-align: right;
+    color: black;
+  }
+#neuer_gutschein {
+  border-width: thin;
+  border-style: solid;
+  background-color: lime;
+}
+
+#neuer_gutschein input{
+    background-color:grey;
+    color: white;
+
+}
