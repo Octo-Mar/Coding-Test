@@ -1,0 +1,20 @@
+p { font-size: 1.5em; text-align: justify; font-family: sans-serif; }
+h1 { font-size: 2.5em; font-family: cursive; background-color: orange; text-align: center; }
+h2 { font-size: 2.2em; font-family: cursive; background-color: yellow; text-align: center; }
+li { font-size: 1.7em; }
+li li { font-size: 1em; }
+tr { font-size: 1.7em; }
+
+#leistungen {
+    border-width: thin;
+    border-style: solid;
+    background-color: lime;
+    padding-right: 1em;
+    float: left;
+    margin-right: 1em;
+  }
+  #leistungen p {
+    font-family: serif;
+    text-align: right;
+  }
+
